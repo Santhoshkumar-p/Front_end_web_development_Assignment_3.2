@@ -1,0 +1,15 @@
+img[title = "one"] {
+		width: 100%;
+		width:700px;
+		height: 185px;
+		font-size: larger;
+}
+#search {
+	font-size: 25px;
+	height: 40px;
+	width: 200px;
+}
+img[title = "two"] {
+	position: absolute;
+	height: 50px;
+}
